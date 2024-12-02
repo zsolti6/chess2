@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chess2/static/css/main.a022fc17.css",
+    "main.js": "/chess2/static/js/main.bc8654df.js",
+    "static/media/bootstrap-icons.woff?": "/chess2/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/chess2/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/chess2/index.html",
+    "main.a022fc17.css.map": "/chess2/static/css/main.a022fc17.css.map",
+    "main.bc8654df.js.map": "/chess2/static/js/main.bc8654df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a022fc17.css",
+    "static/js/main.bc8654df.js"
+  ]
+}
